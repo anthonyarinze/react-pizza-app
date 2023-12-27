@@ -29,6 +29,6 @@ Create an optimized production build: npm run build
 Linting: Enforces code style and catches potential errors using ESLint.
 Formatting: Maintains consistent code style with Prettier.
 Testing: (Optional) Write tests to ensure code quality and prevent future regressions.
-Ready to contribute? Fork this repo, dive into the code, and send us a pull request!
+Ready to contribute? Fork this repo, dive into the code, and send me a pull request!
 
 **Enjoy! **
