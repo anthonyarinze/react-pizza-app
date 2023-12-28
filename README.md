@@ -13,22 +13,18 @@ Get a slice of the action with this React project built with Vite, TypeScript, a
 
 # Installation:
 
-Clone the repository: git clone https://github.com/anthonyarinze/react-pizza-app.git
-Install dependencies: npm install
+- Clone the repository: git clone https://github.com/anthonyarinze/react-pizza-app.git
+- Install dependencies: npm install
 
 # Development:
 
-Start the development server: npm run dev
-Open your browser to http://localhost:3000
-Building for Production:
-
-Create an optimized production build: npm run build
+- Start the development server: npm run dev
+- Open your browser to http://localhost:3000
 
 # Other Ingredients:
 
-Linting: Enforces code style and catches potential errors using ESLint.
-Formatting: Maintains consistent code style with Prettier.
-Testing: (Optional) Write tests to ensure code quality and prevent future regressions.
+- Linting: Enforces code style and catches potential errors using ESLint.
+- Formatting: Maintains consistent code style with Prettier.
 Ready to contribute? Fork this repo, dive into the code, and send me a pull request!
 
 **Enjoy! **
