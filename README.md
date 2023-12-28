@@ -25,6 +25,7 @@ Get a slice of the action with this React project built with Vite, TypeScript, a
 
 - Linting: Enforces code style and catches potential errors using ESLint.
 - Formatting: Maintains consistent code style with Prettier.
-Ready to contribute? Fork this repo, dive into the code, and send me a pull request!
+Ready to contribute? 
+-Fork this repo, dive into the code, and send me a pull request!
 
 **Enjoy! **
